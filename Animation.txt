@@ -15,7 +15,7 @@ p.ex1 {
 <h1>The min-height Property</h1>
 
 <h2>min-height: none (default):</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit...</p>
+<p>Lorem ipsum dolor sit amet, consecter adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit...</p>
 
 <h2>min-height: 200px:</h2>
 <p class="ex1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit...</p>
