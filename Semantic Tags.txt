@@ -1,0 +1,64 @@
+The <article> element specifies independent, self-contained content.
+
+An article should make sense on its own, and it should be possible to distribute it independently from the rest of the web site.
+
+Examples of where the <article> element can be used:
+
+Forum posts
+Blog posts
+User comments
+Product cards
+Newspaper articles
+
+
+The <section> element defines a section in a document.
+
+According to W3C's HTML documentation: "A section is a thematic grouping of content, typically with a heading."
+
+Examples of where a <section> element can be used:
+
+Chapters
+Introduction
+News items
+Contact information
+A web page could normally be split into sections for introduction, content, and contact information.
+
+
+The <header> element represents a container for introductory content or a set of navigational links.
+
+A <header> element typically contains:
+
+one or more heading elements (<h1> - <h6>)
+logo or icon
+authorship information
+Note: You can have several <header> elements in one HTML document. However, <header> cannot be placed within a <footer>, <address> or another <header> element
+
+The <footer> element defines a footer for a document or section.
+
+A <footer> element typically contains:
+
+authorship information
+copyright information
+contact information
+sitemap
+back to top links
+related documents
+You can have several <footer> elements in one document.
+
+The <nav> element defines a set of navigation links.
+
+Notice that NOT all links of a document should be inside a <nav> element. The <nav> element is intended only for major blocks of navigation links.
+
+Browsers, such as screen readers for disabled users, can use this element to determine whether to omit the initial rendering of this content.
+
+
+The <aside> element defines some content aside from the content it is placed in (like a sidebar).
+
+The <aside> content should be indirectly related to the surrounding content.
+
+
+The <figure> tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+
+The <figcaption> tag defines a caption for a <figure> element. The <figcaption> element can be placed as the first or as the last child of a <figure> element.
+
+The <img> element defines the actual image/illustration. 
